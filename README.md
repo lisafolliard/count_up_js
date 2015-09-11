@@ -5,21 +5,9 @@ By Lisa Folliard and Jessica Joly
 
 Description: Users input a multiple and a total and the app counts up to display the result.
 
-Technology Used:
+Technologies Used:
 
 HTML JavaScript JQuery Mocha Chai CSS
-
-Legal
-
-Copyright (c) 2015 Pig Latin Generator This app allows users to generate pig latin by entering a word.
-
-By Lisa Folliard and Jessica Joly
-
-Description: Users input a word and it is translated into pig latin.
-
-Technology Used:
-
-JavaScript JQuery Mocha Chai CSS
 
 Legal
 
